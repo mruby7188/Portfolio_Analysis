@@ -1,2 +1,2 @@
-# ECON424 Final Project
+# Computational Finance And Financial Econometrics Project
 
